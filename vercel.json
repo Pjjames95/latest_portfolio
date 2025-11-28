@@ -1,0 +1,26 @@
+{
+  "routes": [
+    {
+      "src": "/home",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/about",
+      "dest": "/about.html"
+    },
+    {
+      "src": "/contact_me",
+      "dest": "/contact.html"
+    },
+    {
+      "src": "/portfolio",
+      "dest": "/portfolio.html"
+    },
+    {
+      "src": "/resume",
+      "dest": "/resume.html"
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
