@@ -1,6 +1,10 @@
 {
   "routes": [
     {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
       "src": "/home",
       "dest": "/index.html"
     },
@@ -9,7 +13,7 @@
       "dest": "/about.html"
     },
     {
-      "src": "/contact_me",
+      "src": "/contact",
       "dest": "/contact.html"
     },
     {
@@ -21,6 +25,5 @@
       "dest": "/resume.html"
     }
   ],
-  "cleanUrls": true,
   "trailingSlash": false
 }
