@@ -1,29 +1,3 @@
 {
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/index.html"
-    },
-    {
-      "src": "/home",
-      "dest": "/index.html"
-    },
-    {
-      "src": "/about",
-      "dest": "/about.html"
-    },
-    {
-      "src": "/contact",
-      "dest": "/contact.html"
-    },
-    {
-      "src": "/portfolio",
-      "dest": "/portfolio.html"
-    },
-    {
-      "src": "/resume",
-      "dest": "/resume.html"
-    }
-  ],
-  "trailingSlash": false
+  "cleanUrls": true
 }
